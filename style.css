@@ -254,6 +254,15 @@
   font-size: 1.5em;
 }
 
+.symbol {
+  width: 0;
+  height: 0;
+}
+
+.symbol img {
+  width: 0;
+}
+
 .ca {
   width: 60%;
   display: flex;
